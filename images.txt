@@ -5,3 +5,4 @@ zerotier/zerotier
 --platform=linux/arm64 akiralereal/iptv:latest
 --platform=linux/amd64 akiralereal/iptv:latest
 --platform=linux/arm64 adguard/adguardhome
+--platform=linux/arm64 aiursoft/howtocookviewer
