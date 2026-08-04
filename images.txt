@@ -6,6 +6,5 @@ zerotier/zerotier
 --platform=linux/amd64 akiralereal/iptv:latest
 --platform=linux/arm64 adguard/adguardhome
 --platform=linux/arm64 aiursoft/howtocookviewer
---platform=linux/arm64 tvbox-source-aggregator
 --platform=linux/arm64 majosissi/easytier 
 --platform=linux/amd64 majosissi/easytier 
