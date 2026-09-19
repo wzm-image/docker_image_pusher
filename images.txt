@@ -8,4 +8,4 @@ zerotier/zerotier
 --platform=linux/arm64 aiursoft/howtocookviewer
 --platform=linux/arm64 majosissi/easytier 
 --platform=linux/amd64 majosissi/easytier 
---platform=linux/amd64 rhasspy/piper:latest
+--platform=linux/amd64 lscr.io/linuxserver/piper:latest
