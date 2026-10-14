@@ -9,3 +9,4 @@ zerotier/zerotier
 --platform=linux/arm64 majosissi/easytier 
 --platform=linux/amd64 majosissi/easytier 
 --platform=linux/amd64 lscr.io/linuxserver/piper:latest
+--platform=linux/arm64 ghcr.io/291-group/lan-sheriff:latest
